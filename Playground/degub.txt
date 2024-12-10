@@ -1,0 +1,5 @@
+Prime time kata
+
+ - can create array with input
+ - can add elements to input
+ - can find all primes
